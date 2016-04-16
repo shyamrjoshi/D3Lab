@@ -1,0 +1,22 @@
+{
+  "name": "bower install --save jquery d3",
+  "description": "installed jquery and d3 using bower",
+  "main": "index.html",
+  "keywords": [
+    "jquery",
+    "d3"
+  ],
+  "authors": [
+    "shyam joshi"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
